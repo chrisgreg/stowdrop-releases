@@ -5,12 +5,21 @@
     <description>Updates for Stowdrop.</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Wed, 19 Aug 2026 16:46:47 -0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[&lt;ul&gt;&lt;li&gt;Onboarding flow&lt;/li&gt;&lt;/ul&gt;]]></description>
+      <enclosure url="https://github.com/chrisgreg/stowdrop-releases/releases/download/v1.1.0/Stowdrop-1.1.0.dmg" length="16997854" type="application/x-apple-diskimage" sparkle:edSignature="+iQG+x5gDBA5HVsao/1APEEh/waRSVPSqtr93BGY62ccMkRv4ZSZrvyIlBpk7R8hkii9Px/kH9rwZIhKMCV4Bg==" />
+    </item>
+    <item>
       <title>Version 1.0.0</title>
       <pubDate>Wed, 19 Aug 2026 16:25:14 -0000</pubDate>
       <sparkle:version>1.0.0</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[&lt;ul&gt;&lt;li&gt;Add analytics&lt;/li&gt;&lt;li&gt;Version 1.0.0, DMG installer&lt;/li&gt;&lt;li&gt;For releasing&lt;/li&gt;&lt;li&gt;Activation, sounds, settings&lt;/li&gt;&lt;li&gt;performance improvement&lt;/li&gt;&lt;li&gt;markdown&lt;/li&gt;&lt;li&gt;Titlebar for settings&lt;/li&gt;&lt;li&gt;Icons&lt;/li&gt;&lt;li&gt;Settings pages&lt;/li&gt;&lt;li&gt;Handle gifs and also fix mosaic&lt;/li&gt;&lt;li&gt;Editing notes and todos&lt;/li&gt;&lt;li&gt;Images and rename to Stowdrop&lt;/li&gt;&lt;/ul&gt;]]></description>
+      <description>&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Add analytics&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Version 1.0.0, DMG installer&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;For releasing&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Activation, sounds, settings&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;performance improvement&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;markdown&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Titlebar for settings&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Icons&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Settings pages&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Handle gifs and also fix mosaic&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Editing notes and todos&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Images and rename to Stowdrop&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
       <enclosure url="https://github.com/chrisgreg/stowdrop-releases/releases/download/v1.0.0/Stowdrop-1.0.0.dmg" length="16908036" type="application/x-apple-diskimage" sparkle:edSignature="RIx97UZKz4kS4nzL2OHTOImxC5kaR4NGvzXErgkIqdkq2jWF2D/Od/qOgEUMKk3XyPw9Ac4Ps7PW8H0s2sq9Cg==" />
     </item>
   </channel>
