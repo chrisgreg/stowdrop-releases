@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Stowdrop</title>
+    <description>Updates for Stowdrop.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Wed, 19 Aug 2026 16:25:14 -0000</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[&lt;ul&gt;&lt;li&gt;Add analytics&lt;/li&gt;&lt;li&gt;Version 1.0.0, DMG installer&lt;/li&gt;&lt;li&gt;For releasing&lt;/li&gt;&lt;li&gt;Activation, sounds, settings&lt;/li&gt;&lt;li&gt;performance improvement&lt;/li&gt;&lt;li&gt;markdown&lt;/li&gt;&lt;li&gt;Titlebar for settings&lt;/li&gt;&lt;li&gt;Icons&lt;/li&gt;&lt;li&gt;Settings pages&lt;/li&gt;&lt;li&gt;Handle gifs and also fix mosaic&lt;/li&gt;&lt;li&gt;Editing notes and todos&lt;/li&gt;&lt;li&gt;Images and rename to Stowdrop&lt;/li&gt;&lt;/ul&gt;]]></description>
+      <enclosure url="https://github.com/chrisgreg/stowdrop-releases/releases/download/v1.0.0/Stowdrop-1.0.0.dmg" length="16908036" type="application/x-apple-diskimage" sparkle:edSignature="RIx97UZKz4kS4nzL2OHTOImxC5kaR4NGvzXErgkIqdkq2jWF2D/Od/qOgEUMKk3XyPw9Ac4Ps7PW8H0s2sq9Cg==" />
+    </item>
+  </channel>
+</rss>
