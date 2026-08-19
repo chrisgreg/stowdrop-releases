@@ -5,12 +5,21 @@
     <description>Updates for Stowdrop.</description>
     <language>en</language>
     <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Wed, 19 Aug 2026 20:00:55 -0000</pubDate>
+      <sparkle:version>1.2.0</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[&lt;ul&gt;&lt;li&gt;Add ability to copy stored links and images&lt;/li&gt;&lt;/ul&gt;]]></description>
+      <enclosure url="https://github.com/chrisgreg/stowdrop-releases/releases/download/v1.2.0/Stowdrop.dmg" length="12842949" type="application/x-apple-diskimage" sparkle:edSignature="IKdRVPjDfINcyGd0rL8kwxfuQo0+dhWuyXxlz5v9vET1Px59e8E3CtJsWhbqeDpVJLyrYuYUetwpN8Qq3e4PDw==" />
+    </item>
+    <item>
       <title>Version 1.1.1</title>
       <pubDate>Wed, 19 Aug 2026 17:11:06 -0000</pubDate>
       <sparkle:version>1.1.1</sparkle:version>
       <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[&lt;ul&gt;&lt;li&gt;Check for updates and feedback button&lt;/li&gt;&lt;/ul&gt;]]></description>
+      <description>&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Check for updates and feedback button&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
       <enclosure url="https://github.com/chrisgreg/stowdrop-releases/releases/download/v1.1.1/Stowdrop-1.1.1.dmg" length="17047174" type="application/x-apple-diskimage" sparkle:edSignature="FUgoEDCwGgU+JqBsV/6GFJ/D2q4im/0VXxNOLZHJEjrFHhJ1EAH+YWXuxWXOUb95NSPzNAGOY1otbSyxHlS3Bg==" />
     </item>
     <item>
