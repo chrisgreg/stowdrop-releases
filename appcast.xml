@@ -5,12 +5,21 @@
     <description>Updates for Stowdrop.</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.0</title>
+      <pubDate>Wed, 02 Sep 2026 19:32:55 -0000</pubDate>
+      <sparkle:version>1.3.0</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[&lt;ul&gt;&lt;li&gt;Implement Cloudkit Syncing&lt;/li&gt;&lt;li&gt;Require macOS 13, matching the CloudKit bridge&lt;/li&gt;&lt;li&gt;Decode CloudKit booleans, which arrive as integers&lt;/li&gt;&lt;li&gt;Fix the signing paths that had never run end to end&lt;/li&gt;&lt;li&gt;Harden CloudKit sync and add a local iCloud testing path&lt;/li&gt;&lt;li&gt;Tags, dates, item editing, import and export&lt;/li&gt;&lt;/ul&gt;]]></description>
+      <enclosure url="https://github.com/chrisgreg/stowdrop-releases/releases/download/v1.3.0/Stowdrop.dmg" length="13521258" type="application/x-apple-diskimage" sparkle:edSignature="mqCeHDDml60j2RgbDuTeuKyS0lnHJRZVQqJm32fx9RzfBbAashBfedeT41498fpmmfCM0kvdxxiuvgFTwFXwDg==" />
+    </item>
+    <item>
       <title>Version 1.2.0</title>
       <pubDate>Wed, 19 Aug 2026 20:00:55 -0000</pubDate>
       <sparkle:version>1.2.0</sparkle:version>
       <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[&lt;ul&gt;&lt;li&gt;Add ability to copy stored links and images&lt;/li&gt;&lt;/ul&gt;]]></description>
+      <description>&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Add ability to copy stored links and images&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
       <enclosure url="https://github.com/chrisgreg/stowdrop-releases/releases/download/v1.2.0/Stowdrop.dmg" length="12842949" type="application/x-apple-diskimage" sparkle:edSignature="IKdRVPjDfINcyGd0rL8kwxfuQo0+dhWuyXxlz5v9vET1Px59e8E3CtJsWhbqeDpVJLyrYuYUetwpN8Qq3e4PDw==" />
     </item>
     <item>
