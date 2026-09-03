@@ -5,12 +5,21 @@
     <description>Updates for Stowdrop.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.0</title>
+      <pubDate>Thu, 03 Sep 2026 14:19:07 -0000</pubDate>
+      <sparkle:version>1.4.0</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[&lt;ul&gt;&lt;li&gt;v1.4.0&lt;/li&gt;&lt;li&gt;Tuned up onboarding&lt;/li&gt;&lt;li&gt;Snippets&lt;/li&gt;&lt;/ul&gt;]]></description>
+      <enclosure url="https://github.com/chrisgreg/stowdrop-releases/releases/download/v1.4.0/Stowdrop.dmg" length="13549709" type="application/x-apple-diskimage" sparkle:edSignature="y+qoOIve3QYf+BeZTf7i24oxtKs9u58ZyEUCmxqe4SJYItfSj5lO/XO1eYb/xAKmOph3k5cFYelZ4op2yfDDDQ==" />
+    </item>
+    <item>
       <title>Version 1.3.0</title>
       <pubDate>Wed, 02 Sep 2026 19:32:55 -0000</pubDate>
       <sparkle:version>1.3.0</sparkle:version>
       <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[&lt;ul&gt;&lt;li&gt;Implement Cloudkit Syncing&lt;/li&gt;&lt;li&gt;Require macOS 13, matching the CloudKit bridge&lt;/li&gt;&lt;li&gt;Decode CloudKit booleans, which arrive as integers&lt;/li&gt;&lt;li&gt;Fix the signing paths that had never run end to end&lt;/li&gt;&lt;li&gt;Harden CloudKit sync and add a local iCloud testing path&lt;/li&gt;&lt;li&gt;Tags, dates, item editing, import and export&lt;/li&gt;&lt;/ul&gt;]]></description>
+      <description>&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Implement Cloudkit Syncing&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Require macOS 13, matching the CloudKit bridge&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Decode CloudKit booleans, which arrive as integers&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Fix the signing paths that had never run end to end&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Harden CloudKit sync and add a local iCloud testing path&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Tags, dates, item editing, import and export&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
       <enclosure url="https://github.com/chrisgreg/stowdrop-releases/releases/download/v1.3.0/Stowdrop.dmg" length="13521258" type="application/x-apple-diskimage" sparkle:edSignature="mqCeHDDml60j2RgbDuTeuKyS0lnHJRZVQqJm32fx9RzfBbAashBfedeT41498fpmmfCM0kvdxxiuvgFTwFXwDg==" />
     </item>
     <item>
